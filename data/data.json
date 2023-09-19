@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Product Example 1",
+        "description": "This is an example product description.",
+        "image": "image1.jpg",
+        "price": 19.99
+    },
+    {
+        "id": 2,
+        "title": "Product Example 2",
+        "description": "Another example product description.",
+        "image": "image2.jpg",
+        "price": 29.99
+    },
+    {
+        "id": 3,
+        "title": "Product Example 3",
+        "description": "Yet another example product description.",
+        "image": "image3.jpg",
+        "price": 14.99
+    },
+    {
+        "id": 4,
+        "title": "Product Example 4",
+        "description": "A sample product description.",
+        "image": "image4.jpg",
+        "price": 24.99
+    },
+    {
+        "id": 5,
+        "title": "Product Example 5",
+        "description": "A fifth example product description.",
+        "image": "image5.jpg",
+        "price": 39.99
+    },
+    {
+        "id": 6,
+        "title": "Product Example 6",
+        "description": "Description for product six.",
+        "image": "image6.jpg",
+        "price": 9.99
+    },
+    {
+        "id": 7,
+        "title": "Product Example 7",
+        "description": "Seventh example product description.",
+        "image": "image7.jpg",
+        "price": 49.99
+    },
+    {
+        "id": 8,
+        "title": "Product Example 8",
+        "description": "Description for product eight.",
+        "image": "image8.jpg",
+        "price": 59.99
+    },
+    {
+        "id": 9,
+        "title": "Product Example 9",
+        "description": "Ninth example product description.",
+        "image": "image9.jpg",
+        "price": 34.99
+    },
+    {
+        "id": 10,
+        "title": "Product Example 10",
+        "description": "Description for product ten.",
+        "image": "image10.jpg",
+        "price": 74.99
+    },
+    {
+        "id": 11,
+        "title": "Product Example 11",
+        "description": "Eleventh example product description.",
+        "image": "image11.jpg",
+        "price": 19.99
+    },
+    {
+        "id": 12,
+        "title": "Product Example 12",
+        "description": "Description for product twelve.",
+        "image": "image12.jpg",
+        "price": 29.99
+    },
+    {
+        "id": 13,
+        "title": "Product Example 13",
+        "description": "Thirteenth example product description.",
+        "image": "image13.jpg",
+        "price": 14.99
+    },
+    {
+        "id": 14,
+        "title": "Product Example 14",
+        "description": "Description for product fourteen.",
+        "image": "image14.jpg",
+        "price": 24.99
+    },
+    {
+        "id": 15,
+        "title": "Product Example 15",
+        "description": "Fifteenth example product description.",
+        "image": "image15.jpg",
+        "price": 39.99
+    },
+    {
+        "id": 16,
+        "title": "Product Example 16",
+        "description": "Description for product sixteen.",
+        "image": "image16.jpg",
+        "price": 9.99
+    },
+    {
+        "id": 17,
+        "title": "Product Example 17",
+        "description": "Seventeenth example product description.",
+        "image": "image17.jpg",
+        "price": 49.99
+    },
+    {
+        "id": 18,
+        "title": "Product Example 18",
+        "description": "Description for product eighteen.",
+        "image": "image18.jpg",
+        "price": 59.99
+    },
+    {
+        "id": 19,
+        "title": "Product Example 19",
+        "description": "Nineteenth example product description.",
+        "image": "image19.jpg",
+        "price": 34.99
+    },
+    {
+        "id": 20,
+        "title": "Product Example 20",
+        "description": "Description for product twenty.",
+        "image": "image20.jpg",
+        "price": 74.99
+    }
+]
